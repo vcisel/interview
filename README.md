@@ -3,7 +3,7 @@ EuroDNS DevOps
 
 The purpose of the test is to set up an production environment providing a web application using apache as frontend and a redundant mysql database (master-slave).
 
-Role of servers (![network schema](./schema.png))
+Role of servers ![network schema](./schema.png)
 
 - interview-01: webserver: apache / phpMyAdmin
 - interview-02: mysql master 
