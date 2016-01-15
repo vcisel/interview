@@ -5,7 +5,7 @@ The purpose of the test is to set up an production environment providing a web a
 
 Role of servers:
  
-![network schema](./schema.png =400x))
+![network schema](https://raw.githubusercontent.com/vcisel/interview/master/schema.png =400x))
 
 - interview-01: webserver: apache / phpMyAdmin
 - interview-02: mysql master 
